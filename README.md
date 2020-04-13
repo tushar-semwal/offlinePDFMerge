@@ -8,4 +8,4 @@ A simple python script to merge PDF files. Avoid online services.
 ## Usage
 `python merge_pdf.py file1 file2`
 
-Output file name will be `merged_results.pdf`
+Output file name: `merged_results.pdf`
