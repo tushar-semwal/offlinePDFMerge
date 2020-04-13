@@ -10,6 +10,6 @@ A simple python script to merge PDF files. Avoid online services.
 
 Output file name: `merged_results.pdf`
 
-# ToDos
+## ToDos
 - GUI
 - PDF split
