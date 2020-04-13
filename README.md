@@ -1,5 +1,5 @@
 # offlinePDFMerge
-A simple python script to merge PDF files. Avoid online services
+A simple python script to merge PDF files. Avoid online services.
 
 ## Requirements
 - Python 3.6+
