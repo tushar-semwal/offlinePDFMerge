@@ -9,3 +9,7 @@ A simple python script to merge PDF files. Avoid online services.
 `python merge_pdf.py file1 file2`
 
 Output file name: `merged_results.pdf`
+
+# ToDos
+- GUI
+- PDF split
