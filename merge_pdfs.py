@@ -16,10 +16,11 @@ merger = PdfFileMerger()
 
 pdfs = sys.argv
 pdfs.pop(0)
-print(pdfs)
 
 for pdf in pdfs:
     merger.append(pdf)
 
-merger.write("merge_result.pdf")
+merger.write("merged_result.pdf")
 merger.close()
+
+print("Pdf files merged successfully!")
